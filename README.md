@@ -2,7 +2,7 @@
 
 <img src="assets/mark.svg" alt="DoxFrame 标志" width="96">
 
-# DoxFrame
+<h1><img src="assets/wordmark.svg" alt="DoxFrame" width="280"></h1>
 
 ### 凭直觉，把想法变成画面。
 
