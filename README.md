@@ -6,7 +6,7 @@
 
 写下想法，放入参考图；哪里不满意，就点哪里，告诉它你想怎么改。
 
-[下载 DoxFrame](https://github.com/DocWorkBox/DoxFrame/releases/latest) · [访问官网](https://doxframe.docworkbox.com/) · [观看短片样例](https://doxframe.docworkbox.com/#film)
+[GitHub 下载](https://github.com/DocWorkBox/DoxFrame/releases/latest) · [夸克网盘下载](https://pan.quark.cn/s/720abc384786) · [访问官网](https://doxframe.docworkbox.com/) · [观看短片样例](https://doxframe.docworkbox.com/#film)
 
 </div>
 
@@ -57,7 +57,7 @@ DoxFrame 是一款面向图片与视频创作的桌面工具。连接 AI 生成�
 - **macOS**：Apple 芯片版 `.dmg`
 - **Windows**：x64 版安装程序 `.exe`
 
-也可以通过 [DoxFrame 官网](https://doxframe.docworkbox.com/#download) 查看下载入口。
+其他入口：[夸克网盘下载](https://pan.quark.cn/s/720abc384786) · [DoxFrame 官网](https://doxframe.docworkbox.com/)
 
 ---
 
