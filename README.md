@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/mark.svg" alt="DoxFrame 标志" width="96">
+
 # DoxFrame
 
 ### 凭直觉，把想法变成画面。
